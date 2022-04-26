@@ -8,3 +8,6 @@ The course is divided into five parts.
 3. Pandas
 4. Matplotlib
 5. An astropy project
+
+Practical calculations for astronomers
+Cosmology calculators

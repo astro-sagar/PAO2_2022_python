@@ -12,3 +12,4 @@ The course is divided into five parts.
 Practical calculations for astronomers
 Cosmology calculators
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagar-sethi/PAO2_2022_astropy/main?labpath=Intro1.ipynb)

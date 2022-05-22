@@ -4,7 +4,7 @@ This short python-astropy course is designed for 3rd year bachlor students in as
 This repository contains following 2 files
 
 1. Lab Jupyter-notebooks
-..1. Introduction to python
+  *Introduction to python
   3. Numpy
   4. Pandas
   5. Matplotlib

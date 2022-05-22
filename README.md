@@ -25,6 +25,7 @@ One can run each notebook on online platform or in your own machine
 Click on the mybinder link provided in the github page. It will redirect to a online Jupyter-notebook console.
 To use mybinder follow the file *simple_mybinder_use.txt* file along with the video below.
 [mybinder](https://user-images.githubusercontent.com/45534866/169696890-5eabf671-ac2b-4389-a84a-06baf4d8e300.mp4)
+[![mybinder](https://user-images.githubusercontent.com/45534866/169702246-255ffcf5-74bd-4c90-b8cb-6b3db0666e26.png)]([https://youtu.be/T-D1KVIuvjA](https://user-images.githubusercontent.com/45534866/169696890-5eabf671-ac2b-4389-a84a-06baf4d8e300.mp4))
 
 N.B : My binder will take some (few minutes). Mybinder may require a stable and little bit faster internet connection. In the mybinder page click the file button you can see all listed notebooks there. 
 

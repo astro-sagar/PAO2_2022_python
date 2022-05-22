@@ -34,4 +34,4 @@ networkx==2.6.3
 tifffile==2021.11.2
 imageio==2.19.2
 zipp==3.7.0
-notebook==6.0.0
+notebook==6.4.11

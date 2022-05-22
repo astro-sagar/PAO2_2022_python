@@ -1,10 +1,10 @@
-# PAO2_2022_astropy
+## PAO2_2022_astropy
 This short python-astropy course is designed for 3rd year bachlor students in astronomy of Astronomical Observatory of the Jagiellonian University (OAUJ) Krakow. I assume some students are not familiar with python programming and the Jupyter-notebook console. At the same time all have some experience with any type of programming language. The course is designed by taking care of both perspective. First we will go through the basics of python then we will slowly move towards some important python packages like  Numpy, Pandas, Matplotlib, and Astropy.
 
 This repository contains following 2 files
 
 1. Lab Jupyter-notebooks
-  2. Introduction to python
+..2. Introduction to python
   3. Numpy
   4. Pandas
   5. Matplotlib

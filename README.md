@@ -22,7 +22,7 @@ First file contains all the notebooks presented during the lab class. The second
 
 ## Running Jupyter-notebooks
 One can run each notebook in online platform or in your own machine.
-1. Online method [refer instruction]((/others/mybinder_use.md)
+1. Online method [refer instruction](/others/mybinder_use.md)
 2. On your own machine [refer here](/others/Jupyter-notebook_installation.md)
 
 N.B : My binder will take some (few minutes). Mybinder may require a stable and little bit faster internet connection. In the mybinder page click the file button you can see all listed notebooks there. 

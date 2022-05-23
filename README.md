@@ -17,8 +17,8 @@ First file contains all the notebooks presented during the lab class. The second
 * Matplotlib_assignment
 * Astropy_assinment
 3. Others
-* Jupyter-notebook_installation.txt
-* mybinder_use.txt
+* Jupyter-notebook_installation.md
+* mybinder_use.md
 
 ## Running Jupyter-notebooks
 One can run each notebook in online platform or in your own machine.

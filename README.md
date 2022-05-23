@@ -20,6 +20,7 @@ First file contains all the notebooks presented during the lab class. The second
 * Jupyter-notebook_installation.md
 * mybinder_use.md
 
+If you know how to use Jupyter-notebook directly skip to [here](/assignments/README.md).
 ## Running Jupyter-notebooks
 One can run each notebook in online platform or in your own machine.
 1. Online method [refer here](/others/mybinder_use.md)

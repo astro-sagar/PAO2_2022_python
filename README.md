@@ -22,18 +22,20 @@ First file contains all the notebooks presented during the lab class. The second
 
 ## Running Jupyter-notebooks
 One can run each notebook in online platform or in your own machine.
-### Online method (using mybinder)
+1. Online method [refer instruction]((/others/mybinder_use.md)
+2. On your own machine [refer here](/others/Jupyter-notebook_installation.md)
+
 Click on the mybinder link provided in the end. It will redirect to a online Jupyter-notebook console. 
 To use mybinder follow the [mybinder_use.md](/others/mybinder_use.txt) file along with the video given below (click on the image).
 [![mybinder](https://user-images.githubusercontent.com/45534866/169702246-255ffcf5-74bd-4c90-b8cb-6b3db0666e26.png)](https://user-images.githubusercontent.com/45534866/169696890-5eabf671-ac2b-4389-a84a-06baf4d8e300.mp4)
 
 N.B : My binder will take some (few minutes). Mybinder may require a stable and little bit faster internet connection. In the mybinder page click the file button you can see all listed notebooks there. 
 
-### On your own machine [refer here](/others/Jupyter-notebook_installation.txt)
+### 
 You can directly run Jupyter-notebook on your machine. There are two ways to run Jupyter-notebooks  
 
 * using pip
 * using Anaconda distribution
 
-Open Mybinder link given below [as a logo] to accsess all practice notebooks we go through in the class.
+Launch the mybinder link given below [as a logo] to accsess all practice notebooks (from class) and assignments.It will redirect to a online Jupyter-notebook console.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagar-sethi/PAO2_2022_astropy/main?labpath=Introduction.ipynb)

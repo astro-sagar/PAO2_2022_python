@@ -29,7 +29,11 @@ One can run each notebook online or on your machine.
 N.B: Mybinder will take a few minutes. My binder may require a stable and a little bit faster internet connection. On my binder page, click the file button to see all listed notebooks there. 
 
 Launch the mybinder link given in the end[as a logo] to access all practice notebooks (from class) and assignments. It will redirect to an online Jupyter-notebook console.
-## Assignment submission
-For assignment submission instruction [refer](/assignments)
+
+## Assignment submission:
+Open the assignment notebook on online platform with mybinder  or download the notebook work in your own machine.
+Send all the completed assignment notebooks in a zip file named PAO2_name.zip to my email-id.
+
+sagar.sethi[at]doctoral.uj.edu.pl
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagar-sethi/PAO2_2022_astropy/main?labpath=Introduction.ipynb)

@@ -36,4 +36,4 @@ Send all the completed assignment notebooks in a zip/tar file named PAO2_yournam
 
 sagar.sethi[at]doctoral.uj.edu.pl
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagar-sethi/PAO2_2022_python/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagar-sethi/PAO2_2022_python/main?labpath=%2Fassignments%2FIntro_assignment.ipynb)

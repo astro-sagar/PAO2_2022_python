@@ -30,6 +30,6 @@ N.B : My binder will take some (few minutes). Mybinder may require a stable and 
 
 Launch the mybinder link given in the end[as a logo] to accsess all practice notebooks (from class) and assignments.It will redirect to a online Jupyter-notebook console.
 ## Assignment submission
-For assignment submission instruction [refer](/assignments/README.md)
+For assignment submission instruction [refer](/assignments)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagar-sethi/PAO2_2022_astropy/main?labpath=Introduction.ipynb)

@@ -15,4 +15,4 @@ Follow the video given below (click on the image).
 
 N.B: My binder will take a few minutes. Mybinder may require a stable and little bit faster internet connection. On the mybinder page, click the file button. You can see all listed notebooks there.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagar-sethi/PAO2_2022_python/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagar-sethi/PAO2_2022_python/main?labpath=%2Fassignments%2FIntro_assignment.ipynb)

@@ -13,7 +13,6 @@ First file contains all the notebooks presented during the lab class. The second
 2. Assignments
 * Intro_assignment
 * Numpy_assignment
-* Pandas_assignment
 * Matplotlib_assignment
 * Astropy_assinment
 3. Others

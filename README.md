@@ -31,7 +31,7 @@ Launch the mybinder link given in the end[as a logo] to access all practice note
 
 ## Assignment submission:
 Open the assignment notebook on online platform with mybinder  or download the notebook work in your own machine.
-Send all the completed assignment notebooks in a zip/tar file ```named PAO2_yourname.zip``` to my email-id.
+Send all the completed assignment notebooks in a zip/tar file named ```PAO2_yourname.zip``` to my email-id.
 
 sagar.sethi[at]doctoral.uj.edu.pl
 

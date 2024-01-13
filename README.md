@@ -1,4 +1,4 @@
-# PAO2_2022_python
+# PAO2_2022_python course
 This short python-astropy course is designed for 3rd-year bachelor's students in astronomy at the Astronomical Observatory of the Jagiellonian University [(OAUJ)](http://www.oa.uj.edu.pl/index.en.html) Krakow for Practical Observational Astronomy 2 [(POA 2)]() course. I assume some students are not familiar with python programming and the Jupyter-notebook console. At the same time, all students have some experience with any programming language. The course was designed by taking care of both perspectives. First, we will go through the basics of python. We will slowly move towards some necessary python packages like  Numpy, Pandas, Matplotlib, and Astropy, which will be helpful in Astronomy.
 
 ## Files
